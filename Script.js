@@ -40,8 +40,8 @@ console.log(
 console.log("Question: Which would you rather be – an unhappy human or a happy dog?");
 
 console.log(
-    "Answer: I'd be a dog, a loved dog, is a happy dog, a spoiled dog, " +
-    "a dog who's taken care of, snuggled and loved like family."
+    "Answer: I'd be a dog — a loved dog is a happy dog, a spoiled dog, " +
+    "a dog who’s taken care of, snuggled, and loved like family."
 );
 
 
@@ -52,6 +52,6 @@ let userChoice = prompt(
     "Which would you rather be – an unhappy human or a happy dog?"
 );
 
-// Log the user's response (no validation required)
+// Log the user's response
 console.log("User response:", userChoice);
-<script src="script.js"></script>
+
